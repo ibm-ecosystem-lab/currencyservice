@@ -23,7 +23,7 @@ service:
   port: 7000
 
 submariner:
-  enabled: true
+  enabled: false
 
 route:
   enabled: false
